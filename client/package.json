@@ -1,0 +1,12 @@
+
+{
+  "name": "task-sync-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "@chakra-ui/react": "^1.6.8",
+    "axios": "^0.21.1"
+  }
+}
